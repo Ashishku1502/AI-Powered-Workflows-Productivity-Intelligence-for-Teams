@@ -3,12 +3,6 @@
 Miaoda is a Vite + React + TypeScript starter app wired to Supabase for data persistence.  
 This README gives an opinionated, easy-to-follow guide for getting the project running locally, how the repo is organized, and useful tips for working with the code and backend.
 
-
-# Miaoda — AI-Powered Workflows (Miaoda Project)
-
-Miaoda is a Vite + React + TypeScript starter app wired to Supabase for data persistence.  
-This README gives an opinionated, easy-to-follow guide for getting the project running locally, how the repo is organized, and useful tips for working with the code and backend.
-
 Live project (preview)
 - https://app-9ejqjjqjq3nl.appmedo.com
 
