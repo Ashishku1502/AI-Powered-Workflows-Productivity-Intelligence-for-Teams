@@ -10,7 +10,7 @@ Miaoda is a Vite + React + TypeScript starter app wired to Supabase for data per
 This README gives an opinionated, easy-to-follow guide for getting the project running locally, how the repo is organized, and useful tips for working with the code and backend.
 
 Live project (preview)
-- https://medo.dev/projects/app-9ejqjjqjq3nl
+- https://app-9ejqjjqjq3nl.appmedo.com
 
 Highlights
 - Built with Vite, React, TypeScript
